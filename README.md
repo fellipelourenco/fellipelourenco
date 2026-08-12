@@ -37,4 +37,4 @@ Aplicação full-stack para confirmação de presença em eventos, com React, Fl
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/fellipe-ara%C3%BAjo-b589532a5/) · [E-mail](mailto:fellipelourenco.dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/fellipe-araujo-lourenco/) · [E-mail](mailto:fellipelourenco.dev@gmail.com)
