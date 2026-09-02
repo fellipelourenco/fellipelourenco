@@ -8,7 +8,7 @@ Construo projetos completos para transformar processos e dados em produtos utili
 
 ## Projetos em destaque
 
-### [Nola Analytics](https://github.com/Ventilado1239/nola-god-level)
+### [Nola Analytics](https://github.com/Ventilado1239/nola-analytics)
 
 Plataforma de BI para restaurantes construída sobre mais de 500 mil vendas sintéticas de 50 lojas. Inclui FastAPI, PostgreSQL, React/TypeScript, análise RFM, heatmap, exportação para Excel, 10 endpoints e 3 views materializadas.
 
@@ -31,7 +31,7 @@ Aplicação full-stack para confirmação de presença em eventos, com React, Fl
 ## Formação e idiomas
 
 - Ciência da Computação — Universidade Católica de Brasília, conclusão prevista para 2027;
-- inglês avançado (C1);
+- inglês intermediário-avançado (B2);
 - estudos em andamento: AWS Cloud Practitioner;
 - certificações e trilhas: Git, Scrum, IA aplicada, prompt engineering, DevOps e Docker.
 
