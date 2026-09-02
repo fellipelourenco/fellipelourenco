@@ -8,19 +8,19 @@ Construo projetos completos para transformar processos e dados em produtos utili
 
 ## Projetos em destaque
 
-### [Nola Analytics](https://github.com/Ventilado1239/nola-analytics)
+### [Nola Analytics](https://github.com/fellipelourenco/nola-analytics)
 
 Plataforma de BI para restaurantes construída sobre mais de 500 mil vendas sintéticas de 50 lojas. Inclui FastAPI, PostgreSQL, React/TypeScript, análise RFM, heatmap, exportação para Excel, 10 endpoints e 3 views materializadas.
 
-### [SaaS de gestão via WhatsApp](https://github.com/Ventilado1239/ProjetoSaas)
+### [SaaS de gestão via WhatsApp](https://github.com/fellipelourenco/ProjetoSaas)
 
 Aplicação multi-tenant com FastAPI e PostgreSQL/Supabase: 14 modelos de dados, 28 rotas de API, 8 módulos de automação, JWT, Row Level Security, auditoria e 32 testes automatizados.
 
-### [Gestra](https://github.com/Ventilado1239/gestra-project)
+### [Gestra](https://github.com/fellipelourenco/gestra-project)
 
 Sistema de projetos e tarefas com Node.js, Express, SQLite e JavaScript. Implementa 23 rotas, RBAC com três perfis, quadro Kanban, alertas por e-mail e relatórios em PDF.
 
-### [Flashback](https://github.com/Ventilado1239/flashback)
+### [Flashback](https://github.com/fellipelourenco/flashback)
 
 Aplicação full-stack para confirmação de presença em eventos, com React, Flask, SQLAlchemy e PostgreSQL. Inclui fluxo de aprovação, cardápio configurável e painel de estatísticas.
 
